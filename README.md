@@ -2,4 +2,4 @@
 
 Shoe shop app concept developed with Flutter. Just app with beautiful UI 👌
 
-![app]("docs/img/app.png")
+![screenshot](docs/img/app.png)
